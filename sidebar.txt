@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pes:home|Door43 (pes)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pes|d43-pes repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pes/archive/master.zip|d43-pes.zip]]
+
+**Recent Changes**
+{{changes>ns = pes}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pes|Ethnologue data]]
+
